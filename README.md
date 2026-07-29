@@ -121,7 +121,7 @@ moon run desktop:dev   # see apps/desktop/README.md
 ```
 
 ## Berkontribusi
-Kami belum siap menerima kontribusi dari luar karena arsitektur masih dalam tahap perancangan,Jika Anda ingin mengikuti perkembangan,mengajukan pertanyaan,atau sekadar bergabung, [join the Discord](https://discord.gg/zmR9N35cjK) or [open an issue](https://github.com/opencut-app/opencut/issues).
+Kami belum siap menerima kontribusi dari luar karena arsitektur masih dalam tahap perancangan,Jika Anda ingin mengikuti perkembangan,mengajukan pertanyaan,atau sekadar bergabung, [join the Discord](https://discord.gg/zmR9N35cjK) atau [open an issue](https://github.com/opencut-app/opencut/issues).
 
 ## Sponsors
 
