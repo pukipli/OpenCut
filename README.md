@@ -48,7 +48,7 @@ Jika shims gagal dijalankan, izinkan skrip lokal untuk pengguna Anda:
 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 ```
 
-From the repo root:
+Dari direktori root repositori:
 
 ```sh
 proto use    # installs the tools pinned in .prototools
