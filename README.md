@@ -24,7 +24,7 @@ Plugin pihak ketiga kelas satu (dimungkinkan oleh arsitektur yang mengutamakan p
 - Mode tanpa tampilan (otomatisasi, rendering batch)
 - Tab skrip langsung di editor.
 
-You can still find the previous version at [opencut-app/opencut-classic](https://github.com/opencut-app/opencut-classic), which is the one to reach for today. [opencut.app](https://opencut.app) still runs the classic version. The rewrite will live at [new.opencut.app](https://new.opencut.app) until it's ready to take over.
+Anda masih dapat menemukan versi sebelumnya di [opencut-app/opencut-classic](https://github.com/opencut-app/opencut-classic),yang merupakan versi yang perlu Anda gunakan saat ini. [opencut.app](https://opencut.app) masih menjalankan versi klasik. Versi yang telah diperbarui akan berada di [new.opencut.app](https://new.opencut.app) sampai siap untuk menggantikannya.
 
 ## Development
 
