@@ -69,7 +69,7 @@ OpenCut didukung oleh perusahaan-perusahaan yang percaya pada alat-alat kreator 
 
 - [**fal.ai**](https://fal.ai?utm_source=github-opencut&utm_campaign=oss): Model generatif untuk gambar, video, dan audio, semuanya dalam satu tempat.
 
-Want your logo here? Reach out at [sponsor@opencut.app](mailto:sponsor@opencut.app).
+Ingin logo Anda tampil di sini? Hubungi kami di [sponsor@opencut.app](mailto:sponsor@opencut.app).
 
 ## License
 
