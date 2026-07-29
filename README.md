@@ -28,7 +28,7 @@ Anda masih dapat menemukan versi sebelumnya di [opencut-app/opencut-classic](htt
 
 ## Development
 
-Install [proto](https://moonrepo.dev/proto) if you haven't already:
+Instal [proto](https://moonrepo.dev/proto) jika Anda belum melakukannya:
 
 **Linux, macOS, WSL:**
 
@@ -42,7 +42,7 @@ bash <(curl -fsSL https://moonrepo.dev/install/proto.sh)
 irm https://moonrepo.dev/install/proto.ps1 | iex
 ```
 
-If shims fail to run, allow local scripts for your user:
+Jika shims gagal dijalankan, izinkan skrip lokal untuk pengguna Anda:
 
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
