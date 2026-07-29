@@ -65,7 +65,7 @@ Kami belum siap menerima kontribusi dari luar karena arsitektur masih dalam taha
 
 ## Sponsors
 
-OpenCut is supported by companies that believe in open source creator tools.
+OpenCut didukung oleh perusahaan-perusahaan yang percaya pada alat-alat kreator sumber terbuka.
 
 - [**fal.ai**](https://fal.ai?utm_source=github-opencut&utm_campaign=oss): Generative image, video, and audio models all in one place.
 
