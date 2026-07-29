@@ -60,9 +60,8 @@ moon run api:dev       # localhost:8787
 moon run desktop:dev   # see apps/desktop/README.md
 ```
 
-## Contributing
-
-We're not set up to take outside contributions yet while the architecture is being designed. If you want to follow along, ask questions, or just hang out, [join the Discord](https://discord.gg/zmR9N35cjK) or [open an issue](https://github.com/opencut-app/opencut/issues).
+## Berkontribusi
+Kami belum siap menerima kontribusi dari luar karena arsitektur masih dalam tahap perancangan,Jika Anda ingin mengikuti perkembangan,mengajukan pertanyaan,atau sekadar bergabung, [join the Discord](https://discord.gg/zmR9N35cjK) or [open an issue](https://github.com/opencut-app/opencut/issues).
 
 ## Sponsors
 
