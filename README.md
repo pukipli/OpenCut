@@ -67,7 +67,7 @@ Kami belum siap menerima kontribusi dari luar karena arsitektur masih dalam taha
 
 OpenCut didukung oleh perusahaan-perusahaan yang percaya pada alat-alat kreator sumber terbuka.
 
-- [**fal.ai**](https://fal.ai?utm_source=github-opencut&utm_campaign=oss): Generative image, video, and audio models all in one place.
+- [**fal.ai**](https://fal.ai?utm_source=github-opencut&utm_campaign=oss): Model generatif untuk gambar, video, dan audio, semuanya dalam satu tempat.
 
 Want your logo here? Reach out at [sponsor@opencut.app](mailto:sponsor@opencut.app).
 
