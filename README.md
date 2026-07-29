@@ -15,15 +15,14 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat)](LICENSE)
 
 ## Status
+**OpenCut sedang ditulis ulang dari awal.** Berikut yang akan datang:
 
-**OpenCut is being rewritten from the ground up.** What's coming:
-
-- An Editor API
-- First-class third party plugins (made possible by a plugin-first architecture)
-- Desktop, mobile, and browser from one codebase (Rust core)
-- MCP server (for AI agents)
-- Headless mode (automation, batch rendering)
-- A scripting tab directly in the editor
+- API Editor
+Plugin pihak ketiga kelas satu (dimungkinkan oleh arsitektur yang mengutamakan plugin)
+- Aplikasi desktop, mobile, dan browser dari satu basis kode (inti Rust)
+- Server MCP (untuk agen AI)
+- Mode tanpa tampilan (otomatisasi, rendering batch)
+- Tab skrip langsung di editor.
 
 You can still find the previous version at [opencut-app/opencut-classic](https://github.com/opencut-app/opencut-classic), which is the one to reach for today. [opencut.app](https://opencut.app) still runs the classic version. The rewrite will live at [new.opencut.app](https://new.opencut.app) until it's ready to take over.
 
